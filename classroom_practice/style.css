@@ -1,0 +1,18 @@
+*{
+    border:2px solid rgb(236, 14, 14);
+    margin:0px;
+    padding:0px;
+}
+
+
+.box {
+    
+    height: 200px;
+    border: 2px solid rgb(147, 34, 34);
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+    background-color: rgb(24, 201, 68);
+    padding: 20px;
+}
+
