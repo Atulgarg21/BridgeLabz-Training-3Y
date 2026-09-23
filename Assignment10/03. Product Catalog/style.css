@@ -1,0 +1,12 @@
+.product-card {
+    transition: 0.3s ease;
+}
+
+.product-card:hover {
+    transform: translateY(-8px);
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}

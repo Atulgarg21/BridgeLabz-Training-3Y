@@ -1,0 +1,14 @@
+.hero {
+    background: #f4f7fb;
+    min-height: 75vh;
+    display: flex;
+    align-items: center;
+}
+
+.btn-primary {
+    transition: 0.3s;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+}
